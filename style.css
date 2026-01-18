@@ -1,0 +1,39 @@
+body{
+    background-color:black;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT01HcX1xc4LTwudmrTIccCQRNdc21mCuJsiQ&s);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, cursive;
+}
+.clock{
+    border: 40px ;
+    border-color: white;
+    padding: 20px 60px;
+    border-radius: 20px;
+    box-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px magenta, 0 0 40px magenta, inset 0 0 10px magenta ;
+
+
+}
+h1{
+    font-size: 100px;
+    color: #fff;
+    margin: 0;
+    line-height: 1;
+    text-shadow: 0 0 5px white, 0 0 10px white, 0 0 20px cyan, 0 0 40px cyan, 0 0 80px cyan, 0 0 90px cyan;
+
+}
+
+
+
+
+
+
+
+
+
+    
+
+
